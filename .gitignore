@@ -33,3 +33,5 @@ Thumbs.db
 # Test artifacts
 screenshots/
 test-*.mjs
+
+.vercel
